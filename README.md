@@ -14,12 +14,14 @@ Bachelor of Computer Science – Major in Data Science
 
 # Projects
 ### <span style="color:blue">Bank Customer Churn Prediction</span>
-_Model Deployment Course Midterm Exam_ 
-Developed a customer churn model using SMOTE for class imbalance and implemented Object-Oriented Programming (OOP) principles. Deployed the model with a user-friendly interface via Streamlit.
+_Model Deployment Course Midterm Exam_ [Project Link](https://github.com/aliciajocelyn/Bank-Customer-Churn-Prediction)
+
+This project is part of my Midterm Exam for the Model Deployment Course. The goal is to develop a predictive model that accurately identifies customers who are likely to churn based on their attributes. By doing so, the bank can implement targeted strategies to retain customers, reduce churn rates, and improve overall customer satisfaction. I developed a customer churn model using SMOTE to address class imbalance and implemented Object-Oriented Programming (OOP) principles. After training and selecting the best model, we deployed it with a user-friendly interface via Streamlit.
 
 ### <span style="color:blue">Bank Customer Deposit Prediction</span>
-_Model Deployment Course Final Exam_
-Built a deposit prediction model and deployed it using FastAPI, creating a scalable API for real-time predictions. Hyperparameter tuning was applied to optimize model accuracy.
+_Model Deployment Course Final Exam_ [Project Link](https://github.com/aliciajocelyn/Bank-Deposit-Prediction)
+
+A bank is experiencing revenue decline due to many clients not investing in long-term deposits. To tackle this, the bank aims to identify customers likely to subscribe to these deposits. I will use machine learning techniques to build a predictive model that forecasts which customers are most likely to engage, enabling targeted marketing strategies. The application will be deployed using FastAPI for my Model Deployment class final exam in the 4th semester.
 
 ### <span style="color:blue">AMAZON and CISCO Stock Price Forecasting</span>
 _Deep Learning Course Final Exam_ [Project Link](https://github.com/aliciajocelyn/LSTM-Stock-Prediction)
@@ -40,5 +42,4 @@ This project was part of my midterm exam for the Deep Learning course in my 4th 
 [Project Link](https://github.com/aliciajocelyn/Online-Clothing-Store-Prediction)
 
 This regression problem aims to predict customers' Yearly Amount Spent in an online clothing store based on their usage patterns and membership details.
-
 The dataset includes behavioral data from the app and website, such as time spent and average session length. Analyzing these factors will help the company understand customer spending better, enabling effective marketing strategies and improved product recommendations, ultimately enhancing engagement and sales.
